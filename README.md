@@ -88,4 +88,5 @@ feedback from the customers.
 *The pizza company should optimize its categories and menu design by offering more variety 
 and options for its customers. They can do this by introducing new flavors, toppings, or 
 crusts, or by creating combos or bundles that include drinks or sides.
-## I have added the Complete file with the Code and visualization to view the file please [Click]()
+## I have added the Complete file with the Code and visualization to view the file please [Click here](https://github.com/kainat1996/Sales-report-/blob/master/New%20project%20on%20pizza%20sales.pdf)
+## To view the POWER BI report please [Click here](https://app.powerbi.com/view?r=eyJrIjoiYThmYTVhZTMtMDA0NC00ODMwLWFjNjMtMGI0NDdkNTQ0NDZmIiwidCI6IjgwMjQzZDFlLWI1ZGEtNGNjZS1iNTYwLWYwZDcxYzBjZjljZSJ9)
